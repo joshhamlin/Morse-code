@@ -107,4 +107,4 @@ while True:
     Pans = toMorse(InMain)
     print(''.join(Pans))
 
-    #works we just need to hadel funny in put and tuch of UI
+    #works we just need to handel funny input and touch up UI
